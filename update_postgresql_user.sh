@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#Docker File PreReq:
+#sudo apt-get install expect
+#copy file https://github.com/runtimeacademy/kasm_workspace.git/update_postgresql_user.sh 
+#chmod +x update_postgresql_user.sh
+
 # Start PostgreSQL service
 sudo service postgresql start
 
