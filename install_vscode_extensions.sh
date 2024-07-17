@@ -11,12 +11,12 @@ then
 fi
 
 # Install the extension
-echo "Installing the Barcode extension for VSCode..."
+echo "Installing the wasp-lang extension for VSCode..."
 code --install-extension $EXTENSION
 
 if [ $? -eq 0 ]; then
-    echo "Barcode extension installed successfully."
+    echo "wasp-lang extension installed successfully."
 else
-    echo "Failed to install the Barcode extension."
+    echo "Failed to install the wasp-lang extension."
     exit 1
 fi
