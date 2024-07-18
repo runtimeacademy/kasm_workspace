@@ -8,5 +8,5 @@
 WASP="wasp-lang.wasp"
 PRISMA="prisma.prisma"
 
-code --install-extension $WASP
-code --install-extension $PRISMA
+sudo code --install-extension $WASP
+sudo code --install-extension $PRISMA
