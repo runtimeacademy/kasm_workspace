@@ -6,7 +6,5 @@
 
 #Extension identifier
 WASP="wasp-lang.wasp"
-PRISMA="prisma.prisma"
 
-sudo code --install-extension $WASP
-sudo code --install-extension $PRISMA
+code --install-extension $WASP
