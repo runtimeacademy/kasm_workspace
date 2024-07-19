@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 #Docker File PreReq:
 #sudo apt-get install expect
