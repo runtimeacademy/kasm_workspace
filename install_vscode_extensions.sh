@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 #Docker File PreReq:
 #copy file https://github.com/runtimeacademy/kasm_workspace.git/install_vscode_extensions.sh 
